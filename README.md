@@ -12,3 +12,5 @@ An Overwatch group matching web application. Created as a semester long team pro
 [Bootstrap Slider](http://seiyria.com/bootstrap-slider/)</br>
 [Overwatch API](https://github.com/SunDwarf/OWAPI)</br>
 [QUnit](https://qunitjs.com/)
+
+## Installation Info
